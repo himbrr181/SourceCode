@@ -1,0 +1,26 @@
+[
+    {
+        "id": "aa44dce1-3697-4620-bc6a-4d9993c15d6c",
+        "title": "Đi học",
+        "description": "Chuẩn bị sách vở, đồng phục và đến trường đúng giờ. Đừng quên bài tập về nhà!",
+        "due_date": "02/06/2025",
+        "priority": "Cao",
+        "status": "Cần thực hiện"
+    },
+    {
+        "id": "a52b4cb3-fc90-4c00-a700-a8ecf29c8a93",
+        "title": "Đi làm thêm ca tối",
+        "description": "Hoàn thành các nhiệm vụ được giao tại nơi làm thêm. Giao tiếp tốt với đồng nghiệp và về nhà an toàn.",
+        "due_date": "04/06/2025",
+        "priority": "Cao",
+        "status": "Đang thực hiện"
+    },
+    {
+        "id": "33dcb3f2-58df-4c50-a734-c3a2f34e24c3",
+        "title": "đi chơi ",
+        "description": "giải trính.",
+        "due_date": "07/06/2025",
+        "priority": "Thấp",
+        "status": "Hoàn thành"
+    }
+]
